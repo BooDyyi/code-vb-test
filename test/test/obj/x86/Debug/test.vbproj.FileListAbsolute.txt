@@ -1,0 +1,18 @@
+C:\Users\boody\AppData\Local\Temporary Projects\test\bin\Debug\test.exe
+C:\Users\boody\AppData\Local\Temporary Projects\test\bin\Debug\test.pdb
+C:\Users\boody\AppData\Local\Temporary Projects\test\bin\Debug\test.xml
+C:\Users\boody\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.Form1.resources
+C:\Users\boody\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.Resources.resources
+C:\Users\boody\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.vbproj.GenerateResource.Cache
+C:\Users\boody\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.exe
+C:\Users\boody\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.xml
+C:\Users\boody\AppData\Local\Temporary Projects\test\obj\x86\Debug\test.pdb
+D:\Programe\Visual Studio 2010\Projects\test\test\bin\Debug\test.exe
+D:\Programe\Visual Studio 2010\Projects\test\test\bin\Debug\test.pdb
+D:\Programe\Visual Studio 2010\Projects\test\test\bin\Debug\test.xml
+D:\Programe\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.Form1.resources
+D:\Programe\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.Resources.resources
+D:\Programe\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.vbproj.GenerateResource.Cache
+D:\Programe\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.exe
+D:\Programe\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.xml
+D:\Programe\Visual Studio 2010\Projects\test\test\obj\x86\Debug\test.pdb
